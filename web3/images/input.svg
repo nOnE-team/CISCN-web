@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>输入</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页消息通知" transform="translate(-487.000000, -1416.000000)" fill-rule="nonzero">
+            <g id="输入" transform="translate(487.000000, 1416.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="38" height="38"></rect>
+                <path d="M14.5058824,11 L7,24.5294118 L7.75294118,31 L13.4941176,28.4387255 L21,14.9093137 L14.5058824,11 Z M15,10.2483199 L17.0161517,7 L24,10.7516801 L21.9838483,14 L15,10.2483199 Z M17,29 L31,29 L31,31 L17,31 L17,29 Z" id="形状" fill="#BBBBBB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="94px" viewBox="0 0 96 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#81B7FF" offset="0%"></stop>
+            <stop stop-color="#5888F3" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="75.5" cy="71.5" r="17"></circle>
+        <filter x="-13.2%" y="-13.2%" width="126.5%" height="126.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-696.000000, -905.000000)">
+            <g id="编组-16" transform="translate(696.000000, 905.000000)">
+                <rect id="矩形备份-49" x="0" y="0" width="94" height="94"></rect>
+                <g id="编组-24" transform="translate(9.000000, 6.000000)">
+                    <rect id="形状结合" fill="url(#linearGradient-1)" x="0.5" y="4" width="68" height="72" rx="7.6039604"></rect>
+                    <path d="M19,0 L51,0 C53.209139,-4.05812251e-16 55,1.790861 55,4 L55,6 C55,7.1045695 54.1045695,8 53,8 L17,8 C15.8954305,8 15,7.1045695 15,6 L15,4 C15,1.790861 16.790861,4.05812251e-16 19,0 Z" id="矩形" fill="#CCE0FF"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="11" y="20" width="28" height="8" rx="4"></rect>
+                    <rect id="矩形备份-95" fill="#FFFFFF" x="11" y="36" width="47" height="8" rx="4"></rect>
+                    <rect id="矩形备份-96" fill="#FFFFFF" x="11" y="52" width="17" height="8" rx="4"></rect>
+                </g>
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#9EC3FF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="编组-18" transform="translate(67.000000, 65.000000)" fill="#FFFFFF">
+                    <path d="M4.48049422,5.88714399 L8.47649201,9.88314178 C9.41019259,10.8168424 9.41019259,12.3306701 8.47649201,13.2643707 C7.54279143,14.1980713 6.02896369,14.1980713 5.09526311,13.2643707 L1.09926532,9.26837289 C0.165564744,8.33467231 0.165564744,6.82084457 1.09926532,5.88714399 C2.0329659,4.95344341 3.54679364,4.95344341 4.48049422,5.88714399 Z" id="矩形备份-92"></path>
+                    <path d="M16.5003705,4.47854549 L9.01145193,12.4667252 C8.13652557,13.39998 6.71798968,13.39998 5.84306332,12.4667252 C4.96813697,11.5334705 4.96813697,10.0203655 5.84306332,9.08711073 L13.3319818,1.09893097 C14.2069082,0.165676194 15.6254441,0.165676194 16.5003705,1.09893097 C17.3752968,2.03218575 17.3752968,3.54529071 16.5003705,4.47854549 Z" id="矩形备份-93"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
